@@ -9,5 +9,7 @@ namespace Lego_Arena_Project_Library
     public class Class1
     {
         //hello
+
+		//hello
     }
 }
